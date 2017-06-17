@@ -1,0 +1,19 @@
+
+Sat Jun 17 11:25:10 PDT 2017
+좋아 이제 한번 해보는 거다
+아이고 스타벅스에서 너무 시끄럽도다
+지금 내가 해야하는 건.. 
+commit the changes I made to use BehaviorSubject
+okay I've changed the components to directly use the VisitService.
+
+Initially this works because BehaviorSubject will start with initial data structure.
+However it still needs to be tested if loading stored data will work,
+
+but in order to do that the data model has to be updated to reflect the backend schemas.
+
+oh yeah. I gotta bind the test types first..
+아이고 또 gizmodo watched. I should've just written here.
+
+This isn't that bad. I can just steam off here. and then try to focus back to code because I get bored writing. I really have a lack of skill in grammar.
+
+okay. I've added the revised visit model, but now it won't retrieve what has been stored. Weird..
