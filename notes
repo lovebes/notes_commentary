@@ -17,3 +17,8 @@ oh yeah. I gotta bind the test types first..
 This isn't that bad. I can just steam off here. and then try to focus back to code because I get bored writing. I really have a lack of skill in grammar.
 
 okay. I've added the revised visit model, but now it won't retrieve what has been stored. Weird..
+
+... shit profile questionnaires seems to repopulate every time there is a static call. Naive .push() done. This is the point where statics population should be the StaticService.
+
+에고. 
+
