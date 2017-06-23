@@ -28,3 +28,24 @@ Gotta work on StaticService again.
 wow i felt like i was gonna read reddit.
 wow computer crash
 
+
+Thu Jun 22 18:30:33 PDT 2017
+====================
+엄마가 내가 정신을 차리라고 하셨다.
+그래.. 난 정신을 차려야 해.
+정신이 차려지지가 않는다.
+3시간 만 주무시고 공항에 갔다 오고
+또 집 나간다고 난리 피는 가족을 상대해야 하며온 가족 학원도 가게 준비하셨다.
+
+제발 주님. 제발 저희 가족의 사업을 도와주세요.
+imgur.com 보고싶다.
+reddit.com
+facebook
+
+
+
+/bin/bash: dat: command not found
+Fri Jun 23 02:34:40 PDT 2017
+okay.. insurance view should be fixed. I can't get it to display insurance name. Why is it hidden? weird.
+Because now we have odd number of elements, the view structure of index, index+1 doesn't work.
+maybe i can do it via flex, attaching elements horizontally.
